@@ -86,9 +86,12 @@ My compiled list of web development resources.
 * [Fontsquirrel](https://www.fontsquirrel.com/)
 * [Google Fonts](https://fonts.google.com/)
 
-## Gradients
+## CSS Generators
 * [CSS Gradient Generator](https://cssgradient.io/)
 * [Gradient Magic](https://www.gradientmagic.com/)
+* [Accordion Slider](https://accordionslider.com/)
+* [Best CSS Button Generator](https://www.bestcssbuttongenerator.com/)
+* [CSS Button Creator](https://cssbuttoncreator.com/)
 
 ## SVG Generators
 * [Blobmaker](https://www.blobmaker.app/)
@@ -100,6 +103,7 @@ My compiled list of web development resources.
 * [Flat UI Colors](https://flatuicolors.com/)
 * [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
 * [Color Hunt](https://colorhunt.co/)
+* [Palette Ninja](https://palette.ninja/)
 
 ## Lipsum (Placeholder text)
 * [Lipsum](https://lipsum.lipsum.com/feed/html)
