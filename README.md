@@ -163,3 +163,6 @@ My compiled list of web development resources.
 ## Design Platforms
 * [Figma](https://www.figma.com/)
 * [InVision](https://www.invisionapp.com/)
+
+## Web Design Inspirations
+* [Web Design Inspirations](https://www.webdesign-inspiration.com/)
