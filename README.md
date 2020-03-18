@@ -102,6 +102,10 @@ My compiled list of web development resources.
 * [Nuxt](https://nuxtjs.org/guide)
 
 #### Learning
+* [Wes Bos Courses](https://wesbos.com/courses/)
+* [Vue Mastery](https://www.vuemastery.com/)
+
+#### Helpful Articles
 * [NPM Tips](https://corgibytes.com/blog/2017/04/18/npm-tips/)
 
 
@@ -130,6 +134,9 @@ My compiled list of web development resources.
 * [Carbon](https://carbon.nesbot.com/docs/#api-introduction)
 * [Faker](https://github.com/fzaninotto/Faker#fakerproviderlorem)
 
+#### Learning
+* [Laracasts](https://laracasts.com/)
+
 
 
 ## Mobile Utilities / Frameworks
@@ -145,9 +152,7 @@ My compiled list of web development resources.
 
 ### General Web Development Learning
 * [freecodecamp](https://www.freecodecamp.org/)
-* [Laracasts](https://laracasts.com/)
 * [Udemy](https://udemy.com/)
-* [Wes Bos Courses](https://wesbos.com/courses/)
 
 
 
