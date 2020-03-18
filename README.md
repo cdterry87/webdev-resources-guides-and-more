@@ -151,9 +151,28 @@ My compiled list of web development resources.
 
 
 
-### Concepts
-* [Atomic Design (by Brad Frost)](https://atomicdesign.bradfrost.com/)
-* [BEM (Block Element Modifier)](http://getbem.com/introduction/)
+### Udemy Courses
+* [Advanced CSS and Sass by Jonas Schmedtmann](https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274498?start=390#overview)
+* [The Complete JavaScript Course by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/learn/)
+* [Web Design for Web Developers by Jonas Schmedtmann](https://www.udemy.com/course/web-design-secrets/learn/lecture/2744010#overview)
+* [Modern Javascript Bootcamp by Andrew Mead](https://www.udemy.com/course/modern-javascript/learn/)
+* [The Complete React Developer Course by Andrew Mead](https://www.udemy.com/course/react-2nd-edition/learn/)
+* [The Complete Node.js Developer Course by Andrew Mead](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/learn/)
+* [Web Developer Bootcamp by Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/3861190#overview)
+* [The Ultimate MySQL Bootcamp by Colt Steele](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/learn/)
+* [Vue JS 2 - The Complete Guide by Maximilian Schwarzmuller](https://www.udemy.com/course/vuejs-2-the-complete-guide/learn/)
+* [React - The Complete Guide by Maximilian Schwarzmuller](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/)
+* [Angular - The Complete Guide by Maximilian Schwarzmuller](https://www.udemy.com/course-dashboard-redirect/?course_id=756150)
+* [Ultimate Web Developer by Brad Hussey](https://www.udemy.com/course/web-developer-course/learn/)
+* [The Complete Web Developer Course 2.0 by Rob Percival](https://www.udemy.com/course/the-complete-web-developer-course-2/learn/)
+* [The Complete Web Development Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830?start=0#overview)
+* [Complete Python Bootcamp by Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp/learn/)
+
+
+
+### Laracasts Courses (by Jeffrey Way)
+* [The PHP Practitioner](https://laracasts.com/series/php-for-beginners)
+* [Laravel 6 From Scratch](https://laracasts.com/series/laravel-6-from-scratch)
 
 
 
@@ -166,6 +185,12 @@ My compiled list of web development resources.
 * [Javascript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * [CSS Easing](http://easings.net/)
 * [CSS for people who hate CSS](https://paulcpederson.com/articles/css-for-people-who-hate-css/)
+
+
+
+### Concepts
+* [Atomic Design (by Brad Frost)](https://atomicdesign.bradfrost.com/)
+* [BEM (Block Element Modifier)](http://getbem.com/introduction/)
 
 
 
