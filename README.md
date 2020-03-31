@@ -39,6 +39,7 @@ My compiled list of web development resources.
 * [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
 * [Color Hunt](https://colorhunt.co/)
 * [Palette Ninja](https://palette.ninja/)
+* [colors.lol](https://colors.lol/)
 
 #### Learning
 * [Flexbox Froggy](https://flexboxfroggy.com/)
@@ -100,6 +101,9 @@ My compiled list of web development resources.
 
 #### Vue Frameworks
 * [Nuxt](https://nuxtjs.org/guide)
+
+#### Vue Plugins
+* [Vue Toastification](https://github.com/Maronato/vue-toastification)
 
 #### Learning
 * [Wes Bos Courses](https://wesbos.com/courses/)
