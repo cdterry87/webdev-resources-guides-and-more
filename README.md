@@ -61,6 +61,7 @@ My compiled list of web development resources.
 * [Autodraw](https://www.autodraw.com/)
 * [IcoMoon](https://icomoon.io/)
 * [IconFinder](https://www.iconfinder.com/)
+* [AllTheFreeStock](https://allthefreestock.com/)
 
 #### Icon Fonts
 * [Fontawesome](https://fontawesome.com/?from=io)
@@ -108,6 +109,7 @@ My compiled list of web development resources.
 #### Learning
 * [Wes Bos Courses](https://wesbos.com/courses/)
 * [Vue Mastery](https://www.vuemastery.com/)
+* [Vue Developers](https://vuejsdevelopers.com)
 
 #### Helpful Articles
 * [NPM Tips](https://corgibytes.com/blog/2017/04/18/npm-tips/)
