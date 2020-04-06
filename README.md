@@ -27,6 +27,7 @@ My compiled list of web development resources.
 * [Web Code Tools](https://webcode.tools/)
 * [Clippy](http://bennettfeely.com/clippy/)
 * [Cubic Bezier](http://cubic-bezier.com/)
+* [Separator Generator](https://wweb.dev/resources/css-separator-generator)
 
 #### SVG Generators
 * [Blobmaker](https://www.blobmaker.app/)
@@ -45,6 +46,8 @@ My compiled list of web development resources.
 * [Flexbox Froggy](https://flexboxfroggy.com/)
 * [Grid Garden](https://cssgridgarden.com/)
 * [CSS Tricks](https://css-tricks.com/)
+* [UI Design](https://learnui.design)
+* [Shift Nudge](https://shiftnudge.com)
 
 
 
