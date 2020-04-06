@@ -102,6 +102,7 @@ My compiled list of web development resources.
 
 #### Vue Frameworks
 * [Nuxt](https://nuxtjs.org/guide)
+* [Vue Design System](https://vueds.com/)
 
 #### Vue Plugins
 * [Vue Toastification](https://github.com/Maronato/vue-toastification)
