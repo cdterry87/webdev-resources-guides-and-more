@@ -294,6 +294,10 @@ sudo certbot certonly --manual --preferred-challenges=dns --server=https://acme-
 
 ### Web Design Inspirations
 * [Web Design Inspirations](https://www.webdesign-inspiration.com/)
+* [CodeMyUI](https://codemyui.com/)
+* [Landingfolio](https://www.landingfolio.com/)
+* [WebDevResources](https://webdevresources.info/)
+* [Undesign](https://undesign.learn.uno)
 
 
 
