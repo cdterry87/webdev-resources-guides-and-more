@@ -42,6 +42,7 @@ My compiled list of web development resources.
 * [Color Hunt](https://colorhunt.co/)
 * [Palette Ninja](https://palette.ninja/)
 * [colors.lol](https://colors.lol/)
+* [Happy Hues](https://www.happyhues.co/)
 
 #### Learning
 * [Flexbox Froggy](https://flexboxfroggy.com/)
