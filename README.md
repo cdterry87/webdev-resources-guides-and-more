@@ -66,6 +66,9 @@ My compiled list of web development resources.
 * [IcoMoon](https://icomoon.io/)
 * [IconFinder](https://www.iconfinder.com/)
 * [AllTheFreeStock](https://allthefreestock.com/)
+* [OpenPeeps](https://www.openpeeps.com/)
+* [Humaaans](https://www.humaaans.com/)
+
 
 #### Icon Fonts
 * [Fontawesome](https://fontawesome.com/?from=io)
