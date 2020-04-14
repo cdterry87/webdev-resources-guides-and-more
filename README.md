@@ -123,6 +123,7 @@ My compiled list of web development resources.
 #### Resources
 * [Storybook](https://storybook.js.org/docs/basics/introduction/)
 * [Storyblok](https://www.storyblok.com/)
+* [Vuepress](https://vuepress.vuejs.org/guide/)
 
 #### Reference
 * [NPM Tips](https://corgibytes.com/blog/2017/04/18/npm-tips/)
