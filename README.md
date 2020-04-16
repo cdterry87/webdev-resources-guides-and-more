@@ -51,6 +51,9 @@ My compiled list of web development resources.
 * [UI Design](https://learnui.design)
 * [Shift Nudge](https://shiftnudge.com)
 
+#### Reference
+* [BEM Cheatsheet](https://9elements.com/bem-cheat-sheet/)
+
 
 
 ## Assets
@@ -117,9 +120,13 @@ My compiled list of web development resources.
 * [Vue Mastery](https://www.vuemastery.com/)
 * [Vue Developers](https://vuejsdevelopers.com)
 
-#### Helpful Articles
-* [NPM Tips](https://corgibytes.com/blog/2017/04/18/npm-tips/)
+#### Resources
+* [Storybook](https://storybook.js.org/docs/basics/introduction/)
+* [Storyblok](https://www.storyblok.com/)
+* [Vuepress](https://vuepress.vuejs.org/guide/)
 
+#### Reference
+* [NPM Tips](https://corgibytes.com/blog/2017/04/18/npm-tips/)
 
 
 ## PHP
