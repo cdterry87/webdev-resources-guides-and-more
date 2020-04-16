@@ -299,6 +299,7 @@ sudo certbot certonly --manual --preferred-challenges=dns --server=https://acme-
 * [Landingfolio](https://www.landingfolio.com/)
 * [WebDevResources](https://webdevresources.info/)
 * [Undesign](https://undesign.learn.uno)
+* [Muzli](https://muz.li)
 
 
 
