@@ -278,6 +278,11 @@ My compiled list of web development resources.
 
 
 
+### Game Development
+* [Phaser](https://phaser.io/tutorials/getting-started-phaser3/index)
+
+
+
 ### Local Development Environments
 * [Installing AMP Stack on Mac](https://jasonmccreary.me/articles/install-apache-php-mysql-mac-os-x-sierra//)
 * [Mac Web Development Environment](https://mallinson.ca/posts/5/the-perfect-web-development-environment-for-your-new-mac)
