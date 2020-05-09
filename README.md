@@ -44,6 +44,9 @@ My compiled list of web development resources.
 * [colors.lol](https://colors.lol/)
 * [Happy Hues](https://www.happyhues.co/)
 
+#### JSON Generators
+* [ObjGen](http://www.objgen.com/json?demo=true)
+
 #### Learning
 * [Flexbox Froggy](https://flexboxfroggy.com/)
 * [Grid Garden](https://cssgridgarden.com/)
