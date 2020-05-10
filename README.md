@@ -140,6 +140,7 @@ My compiled list of web development resources.
 * [CakePHP](https://cakephp.org/)
 * [CodeIgniter](https://codeigniter.com/)
 * [Laravel](https://laravel.com/)
+  * [Laravel Frontend](https://laravel.com/docs/7.x/frontend)
 * [Slim](https://www.slimframework.com/)
 * [Symfony](https://symfony.com/)
 
