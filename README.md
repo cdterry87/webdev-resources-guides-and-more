@@ -44,6 +44,9 @@ My compiled list of web development resources.
 * [colors.lol](https://colors.lol/)
 * [Happy Hues](https://www.happyhues.co/)
 
+#### JSON Generators
+* [ObjGen](http://www.objgen.com/json?demo=true)
+
 #### Learning
 * [Flexbox Froggy](https://flexboxfroggy.com/)
 * [Grid Garden](https://cssgridgarden.com/)
@@ -76,6 +79,7 @@ My compiled list of web development resources.
 * [Fontawesome (cheatsheet)](https://fontawesome.com/cheatsheet?from=io)
 * [Material Icons](https://material.io/resources/icons/?icon=person&style=baseline)
 * [MDI Icons](https://materialdesignicons.com/)
+* [Fontello](http://fontello.com/)
 
 #### Fonts
 * [Fontsquirrel](https://www.fontsquirrel.com/)
@@ -102,6 +106,7 @@ My compiled list of web development resources.
 * [Chart.js](https://www.chartjs.org/)
 * [Moment.js](https://momentjs.com/docs/#/displaying/)
 * [Sweet Alert](https://sweetalert.js.org/docs/)
+* [Tippy.js](https://atomiks.github.io/tippyjs/)
 
 #### Vue Component Frameworks
 * [Buefy (Bulma + Vue)](https://buefy.org/)
@@ -173,6 +178,7 @@ My compiled list of web development resources.
 ### General Web Development Learning
 * [freecodecamp](https://www.freecodecamp.org/)
 * [Udemy](https://udemy.com/)
+* [Pluralsight (paid)](https://pluralsight.com/)
 
 
 
@@ -192,12 +198,21 @@ My compiled list of web development resources.
 * [The Complete Web Developer Course 2.0 by Rob Percival](https://www.udemy.com/course/the-complete-web-developer-course-2/learn/)
 * [The Complete Web Development Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830?start=0#overview)
 * [Complete Python Bootcamp by Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp/learn/)
+* [Svelte.js - The Complete Guide (incl. Sapper.js) by Maximilian Schwarzmuller](https://www.udemy.com/course/sveltejs-the-complete-guide/learn/)
+* [Learn How To Code: Google's Go (golang) by Todd McLeod](https://www.udemy.com/course/sveltejs-the-complete-guide/learn/)
+* [Data Structures and Algorithms by Andrei Neagoie](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/)
+* [The Complete Junior to Senior Web Developer Roadmap by Andrei Neagoie](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/learn)
+* [The Complete Web Developer Zero To Mastery by Andrei Neagoie](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/)
+* [Advanced Javascript Concepts by Andrei Neagoie](https://www.udemy.com/course/advanced-javascript-concepts/learn/)
+* [Javascript the Complete Guide 2020 Beginner to Advanced by Maximilian Schwarzmuller](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/learn/)
+
 
 
 
 ### Laracasts Courses (by Jeffrey Way)
 * [The PHP Practitioner](https://laracasts.com/series/php-for-beginners)
 * [Laravel 6 From Scratch](https://laracasts.com/series/laravel-6-from-scratch)
+* [Object Oriented Principles in PHP](https://laracasts.com/series/object-oriented-principles-in-php)
 
 
 
@@ -263,6 +278,12 @@ My compiled list of web development resources.
 * [Jikan](https://jikan.docs.apiary.io/#)
 * [Spotify](https://developer.spotify.com/documentation/web-api/)
 * [Yelp](https://www.yelp.com/developers)
+* [TheTVDB](https://thetvdb.com/)
+
+
+
+### Game Development
+* [Phaser](https://phaser.io/tutorials/getting-started-phaser3/index)
 
 
 
@@ -274,7 +295,7 @@ My compiled list of web development resources.
 * [MAMP](https://www.mamp.info/en/windows/)
 * [WAMP (Windows Only)](http://www.wampserver.com/en/)
 * [Laravel Valet (Mac Only)](https://laravel.com/docs/6.x/valet)
-
+* [Setup WSL on Windows for Web Dev](https://github.com/cdterry87/SetupWSL)
 
 
 ### Digital Ocean Setup
