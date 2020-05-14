@@ -29,10 +29,16 @@ My compiled list of web development resources.
 * [Cubic Bezier](http://cubic-bezier.com/)
 * [Separator Generator](https://wweb.dev/resources/css-separator-generator)
 * [CSS Grid GEnerator](https://cssgrid-generator.netlify.com/)
+* [Shadow Generator](https://brumm.af/shadows)
+* [CSS Effects](https://emilkowalski.github.io/css-effects-snippets/)
+* [Animista](https://animista.net/)
 
-#### SVG Generators
+#### Pattern / SVG Generators
 * [Blobmaker](https://www.blobmaker.app/)
 * [GetWaves](https://getwaves.io/)
+* [Patterns](https://bansal.io/pattern-css#triangles)
+* [Paaatterns](https://products.ls.graphics/paaatterns/)
+* [Scribbbles](https://www.scribbbles.design/)
 
 #### Color Generators
 * [Coolors](https://coolors.co/app)
@@ -43,6 +49,8 @@ My compiled list of web development resources.
 * [Palette Ninja](https://palette.ninja/)
 * [colors.lol](https://colors.lol/)
 * [Happy Hues](https://www.happyhues.co/)
+* [ColorMixer](https://colormixer.web.app/02007115ff623007ff9bc91b64440301ffff7c5f55610300/Sunset)
+* [ColorSpace](https://mycolor.space/)
 
 #### JSON Generators
 * [ObjGen](http://www.objgen.com/json?demo=true)
@@ -61,18 +69,33 @@ My compiled list of web development resources.
 
 ## Assets
 
-#### Images / Icons / Videos
+#### Images / Videos
 * [Undraw](https://undraw.co)
 * [Unsplash (free stock photos)](https://unsplash.com/)
 * [Hero Patterns](http://www.heropatterns.com/)
-* [Linea Icons](https://themeui.net/linea-free-outline-iconset/)
 * [Coverr (free stock videos)](https://coverr.co/)
 * [Looka (brand designer)](https://looka.com/)
-* [CSS.gg](https://css.gg/)
 * [Autodraw](https://www.autodraw.com/)
+* [AllTheFreeStock](https://allthefreestock.com/)
+* [Mixkit](https://mixkit.co/)
+* [Pexels](https://www.pexels.com/)
+* [Photo Creator](https://photos.icons8.com/creator)
+* [RemoveBG](https://www.remove.bg/)
+* [AI Generated Photos](https://generated.photos/faces)
+* [DuoTone](https://duotone.shapefactory.co/)
+* [OpenPeeps](https://www.openpeeps.com/)
+* [Ouch!](https://icons8.com/ouch)
+* [Avataaars](https://getavataaars.com/)
+
+#### Icons
 * [IcoMoon](https://icomoon.io/)
 * [IconFinder](https://www.iconfinder.com/)
-* [AllTheFreeStock](https://allthefreestock.com/)
+* [Linea Icons](https://themeui.net/linea-free-outline-iconset/)
+* [CSS Icons](https://css.gg/)
+* [Tilda](https://tilda.cc/free-icons/)
+* [Ikonate](https://ikonate.com/)
+* [Eva Icons](https://akveo.github.io/eva-icons/#/)
+* [Icons8 Animated Icons](https://icons8.com/animated-icons)
 
 #### Icon Fonts
 * [Fontawesome](https://fontawesome.com/?from=io)
@@ -84,6 +107,9 @@ My compiled list of web development resources.
 #### Fonts
 * [Fontsquirrel](https://www.fontsquirrel.com/)
 * [Google Fonts](https://fonts.google.com/)
+* [Fonts Arena](https://fontsarena.com/)
+* [BeFonts](https://befonts.com/)
+* [Fontjoy](https://fontjoy.com/)
 
 
 
@@ -279,6 +305,7 @@ My compiled list of web development resources.
 * [Spotify](https://developer.spotify.com/documentation/web-api/)
 * [Yelp](https://www.yelp.com/developers)
 * [TheTVDB](https://thetvdb.com/)
+* [15 Fun APIs for Your Next Project](https://dev.to/biplov/15-fun-apis-for-your-next-project-5053)
 
 
 
