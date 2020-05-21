@@ -146,6 +146,10 @@ My compiled list of web development resources.
 #### Vue Plugins
 * [Vue Toastification](https://github.com/Maronato/vue-toastification)
 
+#### React Frameworks
+* [Reactstrap](https://reactstrap.github.io/)
+* [Material UI](https://material-ui.com/)
+
 #### Learning
 * [Wes Bos Courses](https://wesbos.com/courses/)
 * [Vue Mastery](https://www.vuemastery.com/)
