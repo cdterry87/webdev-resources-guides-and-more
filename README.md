@@ -176,6 +176,7 @@ My compiled list of web development resources.
 * [CodeIgniter](https://codeigniter.com/)
 * [Laravel](https://laravel.com/)
   * [Laravel Frontend](https://laravel.com/docs/7.x/frontend)
+  * [Lighthouse GraphQL Framework forLaravel](https://lighthouse-php.com)
 * [Slim](https://www.slimframework.com/)
 * [Symfony](https://symfony.com/)
 
@@ -192,6 +193,13 @@ My compiled list of web development resources.
 #### Learning
 * [Laracasts](https://laracasts.com/)
 
+
+## API
+
+#### GraphQL
+* [GraphQL](https://graphql.org/learn/)
+* [GraphiQL](https://github.com/graphql/graphiql)
+* [GraphQL Playground](https://github.com/prismagraphql/graphql-playground)
 
 
 ## Mobile Utilities / Frameworks
@@ -365,3 +373,18 @@ sudo certbot certonly --manual --preferred-challenges=dns --server=https://acme-
 
 ### Browser Compatibility
 * [Can I Use?](http://caniuse.com/)
+
+
+
+## Tools
+* VSCode
+* PHPStorm
+* [Postman](https://www.postman.com/)
+* TablePlus
+* SequelPro
+* Hyper
+* AffinityDesigner
+
+
+
+
