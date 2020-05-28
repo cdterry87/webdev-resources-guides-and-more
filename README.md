@@ -384,6 +384,7 @@ sudo certbot certonly --manual --preferred-challenges=dns --server=https://acme-
 * SequelPro
 * Hyper
 * AffinityDesigner
+* Insomnia
 
 
 
