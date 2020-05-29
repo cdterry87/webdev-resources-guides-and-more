@@ -379,17 +379,17 @@ sudo certbot certonly --manual --preferred-challenges=dns --server=https://acme-
 
 ## Tools
 * [VSCode](https://code.visualstudio.com/)
- * ESLint by Dirk Baeumer
- * Laravel Blade Snippets by Winnie Lin
- * Material Icon Theme by Philipp Kief
- * PHP Intelephense by Ben Mewburn
- * PocstCSS Language Support by csstools
- * Prettier - Code formatter by Esben Petersen
- * Rainglow by Dayle Rees
- * SCSS Intellisense by mrmlnc
- * Vetur by Pine Wu
- * Vue VSCode Snippets by sarah.drasner
- * [VSCode Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+  * ESLint by Dirk Baeumer
+  * Laravel Blade Snippets by Winnie Lin
+  * Material Icon Theme by Philipp Kief
+  * PHP Intelephense by Ben Mewburn
+  * PocstCSS Language Support by csstools
+  * Prettier - Code formatter by Esben Petersen
+  * Rainglow by Dayle Rees
+  * SCSS Intellisense by mrmlnc
+  * Vetur by Pine Wu
+  * Vue VSCode Snippets by sarah.drasner
+  * [VSCode Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 * [PHPStorm](https://www.jetbrains.com/phpstorm/)
 * [Transmit](https://panic.com/transmit/)
