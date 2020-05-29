@@ -378,14 +378,28 @@ sudo certbot certonly --manual --preferred-challenges=dns --server=https://acme-
 
 
 ## Tools
-* VSCode
-* PHPStorm
+* [VSCode](https://code.visualstudio.com/)
+ * ESLint by Dirk Baeumer
+ * Laravel Blade Snippets by Winnie Lin
+ * Material Icon Theme by Philipp Kief
+ * PHP Intelephense by Ben Mewburn
+ * PocstCSS Language Support by csstools
+ * Prettier - Code formatter by Esben Petersen
+ * Rainglow by Dayle Rees
+ * SCSS Intellisense by mrmlnc
+ * Vetur by Pine Wu
+ * Vue VSCode Snippets by sarah.drasner
+ * [VSCode Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
+* [PHPStorm](https://www.jetbrains.com/phpstorm/)
+* [Transmit](https://panic.com/transmit/)
+* [TablePlus](https://tableplus.com/)
+* [SequelPro (has issues on Mac > Catalina)](https://www.sequelpro.com/)
+* [Hyper (alternative and themeable terminal)](https://hyper.is/)
+* [AffinityDesigner (alternative to Photoshop)](https://affinity.serif.com/en-us/designer/)
+* [Insomnia](https://insomnia.rest/)
 * [Postman](https://www.postman.com/)
-* TablePlus
-* SequelPro
-* Hyper
-* AffinityDesigner
-* Insomnia
+
 
 
 
