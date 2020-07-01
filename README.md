@@ -84,12 +84,14 @@ My compiled list of web development resources.
 * [AI Generated Photos](https://generated.photos/faces)
 * [DuoTone](https://duotone.shapefactory.co/)
 * [OpenPeeps](https://www.openpeeps.com/)
+* [Humaaans](https://www.humaaans.com/)
 * [Ouch!](https://icons8.com/ouch)
 * [Avataaars](https://getavataaars.com/)
 
 #### Icons
 * [IcoMoon](https://icomoon.io/)
 * [IconFinder](https://www.iconfinder.com/)
+* [AllTheFreeStock](https://allthefreestock.com/)
 * [Linea Icons](https://themeui.net/linea-free-outline-iconset/)
 * [CSS Icons](https://css.gg/)
 * [Tilda](https://tilda.cc/free-icons/)
