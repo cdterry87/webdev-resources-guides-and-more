@@ -29,10 +29,16 @@ My compiled list of web development resources.
 * [Cubic Bezier](http://cubic-bezier.com/)
 * [Separator Generator](https://wweb.dev/resources/css-separator-generator)
 * [CSS Grid GEnerator](https://cssgrid-generator.netlify.com/)
+* [Shadow Generator](https://brumm.af/shadows)
+* [CSS Effects](https://emilkowalski.github.io/css-effects-snippets/)
+* [Animista](https://animista.net/)
 
-#### SVG Generators
+#### Pattern / SVG Generators
 * [Blobmaker](https://www.blobmaker.app/)
 * [GetWaves](https://getwaves.io/)
+* [Patterns](https://bansal.io/pattern-css#triangles)
+* [Paaatterns](https://products.ls.graphics/paaatterns/)
+* [Scribbbles](https://www.scribbbles.design/)
 
 #### Color Generators
 * [Coolors](https://coolors.co/app)
@@ -42,6 +48,12 @@ My compiled list of web development resources.
 * [Color Hunt](https://colorhunt.co/)
 * [Palette Ninja](https://palette.ninja/)
 * [colors.lol](https://colors.lol/)
+* [Happy Hues](https://www.happyhues.co/)
+* [ColorMixer](https://colormixer.web.app/02007115ff623007ff9bc91b64440301ffff7c5f55610300/Sunset)
+* [ColorSpace](https://mycolor.space/)
+
+#### JSON Generators
+* [ObjGen](http://www.objgen.com/json?demo=true)
 
 #### Learning
 * [Flexbox Froggy](https://flexboxfroggy.com/)
@@ -50,35 +62,56 @@ My compiled list of web development resources.
 * [UI Design](https://learnui.design)
 * [Shift Nudge](https://shiftnudge.com)
 
+#### Reference
+* [BEM Cheatsheet](https://9elements.com/bem-cheat-sheet/)
+
 
 
 ## Assets
 
-#### Images / Icons / Videos
+#### Images / Videos
 * [Undraw](https://undraw.co)
 * [Unsplash (free stock photos)](https://unsplash.com/)
 * [Hero Patterns](http://www.heropatterns.com/)
-* [Linea Icons](https://themeui.net/linea-free-outline-iconset/)
 * [Coverr (free stock videos)](https://coverr.co/)
 * [Looka (brand designer)](https://looka.com/)
-* [CSS.gg](https://css.gg/)
 * [Autodraw](https://www.autodraw.com/)
+* [AllTheFreeStock](https://allthefreestock.com/)
+* [Mixkit](https://mixkit.co/)
+* [Pexels](https://www.pexels.com/)
+* [Photo Creator](https://photos.icons8.com/creator)
+* [RemoveBG](https://www.remove.bg/)
+* [AI Generated Photos](https://generated.photos/faces)
+* [DuoTone](https://duotone.shapefactory.co/)
+* [OpenPeeps](https://www.openpeeps.com/)
+* [Humaaans](https://www.humaaans.com/)
+* [Ouch!](https://icons8.com/ouch)
+* [Avataaars](https://getavataaars.com/)
+
+#### Icons
 * [IcoMoon](https://icomoon.io/)
 * [IconFinder](https://www.iconfinder.com/)
 * [AllTheFreeStock](https://allthefreestock.com/)
-* [OpenPeeps](https://www.openpeeps.com/)
-* [Humaaans](https://www.humaaans.com/)
-
+* [Linea Icons](https://themeui.net/linea-free-outline-iconset/)
+* [CSS Icons](https://css.gg/)
+* [Tilda](https://tilda.cc/free-icons/)
+* [Ikonate](https://ikonate.com/)
+* [Eva Icons](https://akveo.github.io/eva-icons/#/)
+* [Icons8 Animated Icons](https://icons8.com/animated-icons)
 
 #### Icon Fonts
 * [Fontawesome](https://fontawesome.com/?from=io)
 * [Fontawesome (cheatsheet)](https://fontawesome.com/cheatsheet?from=io)
 * [Material Icons](https://material.io/resources/icons/?icon=person&style=baseline)
 * [MDI Icons](https://materialdesignicons.com/)
+* [Fontello](http://fontello.com/)
 
 #### Fonts
 * [Fontsquirrel](https://www.fontsquirrel.com/)
 * [Google Fonts](https://fonts.google.com/)
+* [Fonts Arena](https://fontsarena.com/)
+* [BeFonts](https://befonts.com/)
+* [Fontjoy](https://fontjoy.com/)
 
 
 
@@ -101,6 +134,7 @@ My compiled list of web development resources.
 * [Chart.js](https://www.chartjs.org/)
 * [Moment.js](https://momentjs.com/docs/#/displaying/)
 * [Sweet Alert](https://sweetalert.js.org/docs/)
+* [Tippy.js](https://atomiks.github.io/tippyjs/)
 
 #### Vue Component Frameworks
 * [Buefy (Bulma + Vue)](https://buefy.org/)
@@ -114,14 +148,22 @@ My compiled list of web development resources.
 #### Vue Plugins
 * [Vue Toastification](https://github.com/Maronato/vue-toastification)
 
+#### React Frameworks
+* [Reactstrap](https://reactstrap.github.io/)
+* [Material UI](https://material-ui.com/)
+
 #### Learning
 * [Wes Bos Courses](https://wesbos.com/courses/)
 * [Vue Mastery](https://www.vuemastery.com/)
 * [Vue Developers](https://vuejsdevelopers.com)
 
-#### Helpful Articles
-* [NPM Tips](https://corgibytes.com/blog/2017/04/18/npm-tips/)
+#### Resources
+* [Storybook](https://storybook.js.org/docs/basics/introduction/)
+* [Storyblok](https://www.storyblok.com/)
+* [Vuepress](https://vuepress.vuejs.org/guide/)
 
+#### Reference
+* [NPM Tips](https://corgibytes.com/blog/2017/04/18/npm-tips/)
 
 
 ## PHP
@@ -135,6 +177,8 @@ My compiled list of web development resources.
 * [CakePHP](https://cakephp.org/)
 * [CodeIgniter](https://codeigniter.com/)
 * [Laravel](https://laravel.com/)
+  * [Laravel Frontend](https://laravel.com/docs/7.x/frontend)
+  * [Lighthouse GraphQL Framework forLaravel](https://lighthouse-php.com)
 * [Slim](https://www.slimframework.com/)
 * [Symfony](https://symfony.com/)
 
@@ -152,6 +196,14 @@ My compiled list of web development resources.
 * [Laracasts](https://laracasts.com/)
 
 
+## API
+
+#### GraphQL
+* [GraphQL](https://graphql.org/learn/)
+* [GraphiQL](https://github.com/graphql/graphiql)
+* [GraphQL Playground](https://github.com/prismagraphql/graphql-playground)
+* [Vue Apollo](https://apollo.vuejs.org/guide/)
+
 
 ## Mobile Utilities / Frameworks
 * [Adobe Phonegap](https://phonegap.com/)
@@ -167,6 +219,7 @@ My compiled list of web development resources.
 ### General Web Development Learning
 * [freecodecamp](https://www.freecodecamp.org/)
 * [Udemy](https://udemy.com/)
+* [Pluralsight (paid)](https://pluralsight.com/)
 
 
 
@@ -186,12 +239,21 @@ My compiled list of web development resources.
 * [The Complete Web Developer Course 2.0 by Rob Percival](https://www.udemy.com/course/the-complete-web-developer-course-2/learn/)
 * [The Complete Web Development Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830?start=0#overview)
 * [Complete Python Bootcamp by Jose Portilla](https://www.udemy.com/course/complete-python-bootcamp/learn/)
+* [Svelte.js - The Complete Guide (incl. Sapper.js) by Maximilian Schwarzmuller](https://www.udemy.com/course/sveltejs-the-complete-guide/learn/)
+* [Learn How To Code: Google's Go (golang) by Todd McLeod](https://www.udemy.com/course/sveltejs-the-complete-guide/learn/)
+* [Data Structures and Algorithms by Andrei Neagoie](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/)
+* [The Complete Junior to Senior Web Developer Roadmap by Andrei Neagoie](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/learn)
+* [The Complete Web Developer Zero To Mastery by Andrei Neagoie](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/)
+* [Advanced Javascript Concepts by Andrei Neagoie](https://www.udemy.com/course/advanced-javascript-concepts/learn/)
+* [Javascript the Complete Guide 2020 Beginner to Advanced by Maximilian Schwarzmuller](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/learn/)
+
 
 
 
 ### Laracasts Courses (by Jeffrey Way)
 * [The PHP Practitioner](https://laracasts.com/series/php-for-beginners)
 * [Laravel 6 From Scratch](https://laracasts.com/series/laravel-6-from-scratch)
+* [Object Oriented Principles in PHP](https://laracasts.com/series/object-oriented-principles-in-php)
 
 
 
@@ -257,6 +319,13 @@ My compiled list of web development resources.
 * [Jikan](https://jikan.docs.apiary.io/#)
 * [Spotify](https://developer.spotify.com/documentation/web-api/)
 * [Yelp](https://www.yelp.com/developers)
+* [TheTVDB](https://thetvdb.com/)
+* [15 Fun APIs for Your Next Project](https://dev.to/biplov/15-fun-apis-for-your-next-project-5053)
+
+
+
+### Game Development
+* [Phaser](https://phaser.io/tutorials/getting-started-phaser3/index)
 
 
 
@@ -268,7 +337,7 @@ My compiled list of web development resources.
 * [MAMP](https://www.mamp.info/en/windows/)
 * [WAMP (Windows Only)](http://www.wampserver.com/en/)
 * [Laravel Valet (Mac Only)](https://laravel.com/docs/6.x/valet)
-
+* [Setup WSL on Windows for Web Dev](https://github.com/cdterry87/SetupWSL)
 
 
 ### Digital Ocean Setup
@@ -301,8 +370,39 @@ sudo certbot certonly --manual --preferred-challenges=dns --server=https://acme-
 * [Landingfolio](https://www.landingfolio.com/)
 * [WebDevResources](https://webdevresources.info/)
 * [Undesign](https://undesign.learn.uno)
+* [Muzli](https://muz.li)
 
 
 
 ### Browser Compatibility
 * [Can I Use?](http://caniuse.com/)
+
+
+
+## Tools
+* [VSCode](https://code.visualstudio.com/)
+  * ESLint by Dirk Baeumer
+  * Laravel Blade Snippets by Winnie Lin
+  * Material Icon Theme by Philipp Kief
+  * PHP Intelephense by Ben Mewburn
+  * PocstCSS Language Support by csstools
+  * Prettier - Code formatter by Esben Petersen
+  * Rainglow by Dayle Rees
+  * SCSS Intellisense by mrmlnc
+  * Vetur by Pine Wu
+  * Vue VSCode Snippets by sarah.drasner
+  * [VSCode Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
+* [PHPStorm](https://www.jetbrains.com/phpstorm/)
+* [Transmit](https://panic.com/transmit/)
+* [TablePlus](https://tableplus.com/)
+* [SequelPro (has issues on Mac > Catalina)](https://www.sequelpro.com/)
+* [Hyper (alternative and themeable terminal)](https://hyper.is/)
+* [AffinityDesigner (alternative to Photoshop)](https://affinity.serif.com/en-us/designer/)
+* [Insomnia](https://insomnia.rest/)
+* [Postman](https://www.postman.com/)
+
+
+
+
+
