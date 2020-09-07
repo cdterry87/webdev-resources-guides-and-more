@@ -87,6 +87,7 @@ My compiled list of web development resources.
 * [Humaaans](https://www.humaaans.com/)
 * [Ouch!](https://icons8.com/ouch)
 * [Avataaars](https://getavataaars.com/)
+* [lookup.design](https://lookup.design/)
 
 #### Icons
 * [IcoMoon](https://icomoon.io/)
@@ -112,6 +113,9 @@ My compiled list of web development resources.
 * [Fonts Arena](https://fontsarena.com/)
 * [BeFonts](https://befonts.com/)
 * [Fontjoy](https://fontjoy.com/)
+
+#### Design Tools
+* [Responsively](https://responsively.app/)
 
 
 
