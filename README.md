@@ -227,6 +227,10 @@ My compiled list of web development resources.
 * [freecodecamp](https://www.freecodecamp.org/)
 * [Udemy](https://udemy.com/)
 * [Pluralsight (paid)](https://pluralsight.com/)
+* [The Odin Project](https://www.theodinproject.com/)
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn)
+* [Codecademy](https://www.codecademy.com/learn/paths/web-development)
+* [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 
 
