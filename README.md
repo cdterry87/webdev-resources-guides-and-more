@@ -148,6 +148,7 @@ My compiled list of web development resources.
 #### Vue Frameworks
 * [Nuxt](https://nuxtjs.org/guide)
 * [Vue Design System](https://vueds.com/)
+* [Inertia](https://inertiajs.com/)
 
 #### Vue Plugins
 * [Vue Toastification](https://github.com/Maronato/vue-toastification)
@@ -183,6 +184,8 @@ My compiled list of web development resources.
 * [Laravel](https://laravel.com/)
   * [Laravel Frontend](https://laravel.com/docs/7.x/frontend)
   * [Lighthouse GraphQL Framework forLaravel](https://lighthouse-php.com)
+  * [Jetstream](https://jetstream.laravel.com)
+  * [Livewire](https://laravel-livewire.com)
 * [Slim](https://www.slimframework.com/)
 * [Symfony](https://symfony.com/)
 
