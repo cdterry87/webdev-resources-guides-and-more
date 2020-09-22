@@ -406,7 +406,14 @@ sudo certbot certonly --manual --preferred-challenges=dns --server=https://acme-
 * [Insomnia](https://insomnia.rest/)
 * [Postman](https://www.postman.com/)
 
+## Cloud Hosting Options
+* [Digital Ocean](https://www.digitalocean.com/)
+* [Linode](https://www.linode.com/)
+* [Netlify](https://www.netlify.com/)
+* [Heroku](https://www.heroku.com/)
 
-
-
-
+## Debugging, Logging, and Content Management Utilities
+* [Sentry](https://sentry.io/welcome/)
+* [Sanity](https://www.sanity.io/)
+* [Cloudinary](https://cloudinary.com/)
+* [LogRocket](https://logrocket.com/)
