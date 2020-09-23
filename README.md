@@ -139,6 +139,8 @@ My compiled list of web development resources.
 * [Moment.js](https://momentjs.com/docs/#/displaying/)
 * [Sweet Alert](https://sweetalert.js.org/docs/)
 * [Tippy.js](https://atomiks.github.io/tippyjs/)
+* [Popper.js](https://popper.js.org/)
+* [Lodash](https://lodash.com/)
 
 #### Vue Component Frameworks
 * [Buefy (Bulma + Vue)](https://buefy.org/)
