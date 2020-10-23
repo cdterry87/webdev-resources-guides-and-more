@@ -205,6 +205,10 @@ My compiled list of web development resources.
 * [Laracasts](https://laracasts.com/)
 
 
+## Regex
+* [RegExr - Learn build and test regex](https://regexr.com/)
+
+
 ## API
 
 #### GraphQL
