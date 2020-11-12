@@ -39,6 +39,7 @@ My compiled list of web development resources.
 * [Patterns](https://bansal.io/pattern-css#triangles)
 * [Paaatterns](https://products.ls.graphics/paaatterns/)
 * [Scribbbles](https://www.scribbbles.design/)
+* [SVGator](https://www.svgator.com/)
 
 #### Color Generators
 * [Coolors](https://coolors.co/app)
@@ -207,6 +208,10 @@ My compiled list of web development resources.
 
 #### Learning
 * [Laracasts](https://laracasts.com/)
+
+
+## Regex
+* [RegExr - Learn build and test regex](https://regexr.com/)
 
 
 ## API
