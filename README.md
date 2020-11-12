@@ -121,13 +121,16 @@ My compiled list of web development resources.
 
 ## JavaScript
 
-#### Front-End Frameworks
+#### Front-End Libraries/Frameworks
 * [Angular](https://angular.io/)
 * [Aurelia](https://aurelia.io/)
 * [Ember](https://emberjs.com/)
 * [React](https://reactjs.org/)
 * [Svelte](https://svelte.dev/)
 * [Vue](https://vuejs.org/)
+* [jQuery](https://jquery.com/)
+* [jQuery UI](https://jqueryui.com/)
+* [jQuery Mobile](https://jquerymobile.com/)
 
 #### Back-End
 * [Node.js](https://nodejs.org/en/)
