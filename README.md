@@ -32,6 +32,7 @@ My compiled list of web development resources.
 * [Shadow Generator](https://brumm.af/shadows)
 * [CSS Effects](https://emilkowalski.github.io/css-effects-snippets/)
 * [Animista](https://animista.net/)
+* [Tailwind CSS Blocks](https://blocks.wickedtemplates.com/)
 
 #### Pattern / SVG Generators
 * [Blobmaker](https://www.blobmaker.app/)
@@ -343,6 +344,7 @@ My compiled list of web development resources.
 * [Yelp](https://www.yelp.com/developers)
 * [TheTVDB](https://thetvdb.com/)
 * [15 Fun APIs for Your Next Project](https://dev.to/biplov/15-fun-apis-for-your-next-project-5053)
+* [10 Fun APIs to Use For Your Next Project](https://dev.to/hb/10-fun-apis-to-use-for-your-next-project-2lco)
 
 
 
@@ -429,6 +431,7 @@ sudo certbot certonly --manual --preferred-challenges=dns --server=https://acme-
 * [Linode](https://www.linode.com/)
 * [Netlify](https://www.netlify.com/)
 * [Heroku](https://www.heroku.com/)
+* [Render](https://render.com/)
 
 ## Debugging, Logging, and Content Management Utilities
 * [Sentry](https://sentry.io/welcome/)
