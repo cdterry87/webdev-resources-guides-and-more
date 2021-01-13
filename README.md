@@ -267,6 +267,8 @@ My compiled list of web development resources.
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn)
 - [Codecademy](https://www.codecademy.com/learn/paths/web-development)
 - [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Execute Program](https://executeprogram.com)
+- [State of JS](https://2020.stateofjs.com)
 
 ### Udemy Courses
 
