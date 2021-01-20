@@ -339,6 +339,10 @@ My compiled list of web development resources.
 - [Figma](https://www.figma.com/)
 - [InVision](https://www.invisionapp.com/)
 
+### Design Resources
+
+- [Laws of UX](https://lawsofux.com)
+
 ### Placeholder Text
 
 - [Lipsum](https://lipsum.lipsum.com/feed/html)
