@@ -152,6 +152,15 @@ My compiled list of web development resources.
 - [Express](https://expressjs.com/)
 - [Meteor](https://www.meteor.com/)
 
+#### Static Site Generators
+
+- [Gatsby](https://www.gatsbyjs.com/)
+- [Hugo](https://gohugo.io/)
+
+#### Other Tooling
+
+- [Prisma](https://www.prisma.io/)
+
 #### Libraries
 
 - [Chart.js](https://www.chartjs.org/)
@@ -181,6 +190,7 @@ My compiled list of web development resources.
 
 - [Reactstrap](https://reactstrap.github.io/)
 - [Material UI](https://material-ui.com/)
+- [Next.js](https://nextjs.org/)
 
 #### Learning
 
