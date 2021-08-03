@@ -454,6 +454,7 @@ sudo certbot certonly --manual --preferred-challenges=dns --server=https://acme-
 - [AffinityDesigner (alternative to Photoshop)](https://affinity.serif.com/en-us/designer/)
 - [Insomnia](https://insomnia.rest/)
 - [Postman](https://www.postman.com/)
+- [Bootstrap 5 Cheatsheet](https://bootstrap-cheatsheet.themeselection.com/)
 
 ## Cloud Hosting Options
 
