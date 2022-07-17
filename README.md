@@ -119,6 +119,7 @@ My compiled list of web development resources.
 - [Material Icons](https://material.io/resources/icons/?icon=person&style=baseline)
 - [MDI Icons](https://materialdesignicons.com/)
 - [Fontello](http://fontello.com/)
+- [Heroicons](https://heroicons.com/)
 
 #### Fonts
 
@@ -227,6 +228,8 @@ My compiled list of web development resources.
   - [Lighthouse GraphQL Framework forLaravel](https://lighthouse-php.com)
   - [Jetstream](https://jetstream.laravel.com)
   - [Livewire](https://laravel-livewire.com)
+  - [InertiaJS](https://inertiajs.com/)
+  - [AlpineJS](https://alpinejs.dev/)
 - [Slim](https://www.slimframework.com/)
 - [Symfony](https://symfony.com/)
 
