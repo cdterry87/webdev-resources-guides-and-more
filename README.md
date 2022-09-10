@@ -38,6 +38,7 @@ My compiled list of web development resources.
 - [CSS Effects](https://emilkowalski.github.io/css-effects-snippets/)
 - [Animista](https://animista.net/)
 - [Tailwind CSS Blocks](https://blocks.wickedtemplates.com/)
+- [WhatAMesh](https://whatamesh.vercel.app/)
 
 #### Pattern / SVG Generators
 
