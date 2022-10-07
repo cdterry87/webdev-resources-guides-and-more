@@ -417,12 +417,27 @@ My compiled list of web development resources.
 
 - [Setup Virtual Hosts](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-16-04)
 - [Setup SSL Certificates with LetsEncrypt](https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-18-04)
+- [LetsEncrypt wildcard certificates with cerbot](https://www.digitalocean.com/community/tutorials/how-to-create-let-s-encrypt-wildcard-certificates-with-certbot)
 
 ##### Setting up SSL Cert with a wildcard with Certbot
+> Replace `your-tld.com` below with your Top Level Domain name.
 
 ```
-sudo certbot certonly --manual --preferred-challenges=dns --server=https://acme-v02.api.letsencrypt.org/directory --agree-tos -d yourtld.com,*.yourtld.com
+sudo certbot certonly --manual --preferred-challenges=dns --server=https://acme-v02.api.letsencrypt.org/directory --agree-tos -d your-tld.com,*.your-tld.com
 ```
+
+or, if you have the [dns-digitalocean certbot plugin](https://certbot-dns-digitalocean.readthedocs.io/en/stable/) installed:
+
+```
+sudo certbot certonly \
+  --dns-digitalocean \
+  --dns-digitalocean-credentials ~/certbot-creds.ini \
+  -d your-tld.com \
+  -d '*.your-tld.com'
+```
+
+
+
 
 ### Web Design Inspirations
 
