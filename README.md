@@ -66,6 +66,9 @@ My compiled list of web development resources.
 
 - [ObjGen](http://www.objgen.com/json?demo=true)
 
+#### JSON Validator
+- [JSONLint](https://jsonlint.com/)
+
 #### Learning
 
 - [Flexbox Froggy](https://flexboxfroggy.com/)
