@@ -39,6 +39,9 @@ My compiled list of web development resources.
 - [Animista](https://animista.net/)
 - [Tailwind CSS Blocks](https://blocks.wickedtemplates.com/)
 - [WhatAMesh](https://whatamesh.vercel.app/)
+- [Glassmorphism](https://markodenic.com/tools/glassmorphism-css-generator/)
+- [Shape Divider](https://www.shapedivider.app/)
+- [9elements - Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/)
 
 #### Pattern / SVG Generators
 
@@ -48,6 +51,7 @@ My compiled list of web development resources.
 - [Paaatterns](https://products.ls.graphics/paaatterns/)
 - [Scribbbles](https://www.scribbbles.design/)
 - [SVGator](https://www.svgator.com/)
+- [Hola SVG Loader Generator](https://loaders.holasvg.com/)
 
 #### Color Generators
 
