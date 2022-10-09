@@ -3,7 +3,7 @@
 My compiled list of web development resources.
 
 ## HTML / CSS
-
+[Portfolio].(https://pranitsingh.netlify.app/)
 #### CSS Frameworks
 
 - [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
