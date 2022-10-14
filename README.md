@@ -84,6 +84,10 @@ My compiled list of web development resources.
 #### Reference
 
 - [BEM Cheatsheet](https://9elements.com/bem-cheat-sheet/)
+- [HTML5 Canvas Cheatsheet](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html)
+- [CSS3 Media Queries Cheatsheet](https://mac-blog.org.ua/css-3-media-queries-cheat-sheet)
+- [Bootstrap 5 Cheatsheet](https://bootstrap-cheatsheet.themeselection.com/)
+- [SEO Cheatsheet](https://moz.com/learn/seo/seo-cheat-sheet)
 
 ## Assets
 
