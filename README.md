@@ -13,6 +13,8 @@ My compiled list of web development resources.
 - [Semantic](https://semantic-ui.com/introduction/getting-started.html)
 - [Tailwind](https://tailwindcss.com/)
 - [DaisyUI - Tailwind components](https://daisyui.com/)
+- [Material Design Lite](https://getmdl.io/)
+- [Foundation](https://get.foundation/)
 
 #### CSS Precompilers
 
@@ -43,6 +45,7 @@ My compiled list of web development resources.
 - [Glassmorphism](https://markodenic.com/tools/glassmorphism-css-generator/)
 - [Shape Divider](https://www.shapedivider.app/)
 - [9elements - Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/)
+- [Smooth Shadow](https://shadows.brumm.af/)
 
 #### Pattern / SVG Generators
 
@@ -53,6 +56,7 @@ My compiled list of web development resources.
 - [Scribbbles](https://www.scribbbles.design/)
 - [SVGator](https://www.svgator.com/)
 - [Hola SVG Loader Generator](https://loaders.holasvg.com/)
+- [PatternPad](https://patternpad.com/)
 
 #### Color Generators
 
@@ -112,6 +116,7 @@ My compiled list of web development resources.
 - [Ouch!](https://icons8.com/ouch)
 - [Avataaars](https://getavataaars.com/)
 - [lookup.design](https://lookup.design/)
+- [404 Illustrations](https://error404.fun/)
 
 #### Icons
 
