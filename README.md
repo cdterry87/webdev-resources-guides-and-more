@@ -58,6 +58,7 @@ My compiled list of web development resources.
 - [SVGator](https://www.svgator.com/)
 - [Hola SVG Loader Generator](https://loaders.holasvg.com/)
 - [PatternPad](https://patternpad.com/)
+- [SVG Backgrounds and SVG toCSS](https://www.svgbackgrounds.com/tools/svg-to-css/)
 
 #### Color Generators
 
