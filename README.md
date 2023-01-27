@@ -46,6 +46,7 @@ My compiled list of web development resources.
 - [Shape Divider](https://www.shapedivider.app/)
 - [9elements - Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/)
 - [Smooth Shadow](https://shadows.brumm.af/)
+- [Haikei background generator](https://app.haikei.app/)
 
 #### Pattern / SVG Generators
 
