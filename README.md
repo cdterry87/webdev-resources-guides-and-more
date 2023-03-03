@@ -12,6 +12,7 @@ My compiled list of web development resources.
 - [Pure](https://purecss.io/start/)
 - [Semantic](https://semantic-ui.com/introduction/getting-started.html)
 - [Tailwind](https://tailwindcss.com/)
+- [Flowbite - Tailwind components](https://flowbite.com)
 - [DaisyUI - Tailwind components](https://daisyui.com/)
 - [Material Design Lite](https://getmdl.io/)
 - [Foundation](https://get.foundation/)
