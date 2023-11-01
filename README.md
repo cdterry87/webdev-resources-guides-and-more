@@ -16,6 +16,7 @@ My compiled list of web development resources.
 - [DaisyUI - Tailwind components](https://daisyui.com/)
 - [Material Design Lite](https://getmdl.io/)
 - [Foundation](https://get.foundation/)
+- [Headless UI - for React and Vue](https://headlessui.com/)
 
 #### CSS Precompilers
 
