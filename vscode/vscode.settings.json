@@ -1,0 +1,64 @@
+{
+  "workbench.colorTheme": "Black Ocean",
+  "editor.minimap.enabled": false,
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#161616",
+    "statusBar.noFolderBackground": "#323232",
+    "statusBar.debuggingBackground": "#484848"
+  },
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "[vue]": {
+    "editor.defaultFormatter": "octref.vetur"
+  },
+  "window.zoomLevel": 0,
+  "explorer.autoReveal": false,
+  "workbench.editor.enablePreview": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+    "editor.formatOnSave": true
+  },
+  "breadcrumbs.enabled": false,
+  "prettier.quoteProps": "consistent",
+  "prettier.semi": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "extensions.ignoreRecommendations": true,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.trailingComma": "none",
+  "prettier.arrowParens": "avoid",
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "editor.inlineSuggest.enabled": true,
+  "powermode.enabled": true,
+  "powermode.enableStatusBarComboCounter": false,
+  "powermode.enableStatusBarComboTimer": false,
+  "powermode.enableShake": false,
+  "[blade]": {
+    "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.tree.indent": 4,
+  "html.format.indentHandlebars": true,
+  "html.format.indentInnerHtml": true,
+  "html.format.templating": true,
+  "html.format.wrapAttributes": "force-expand-multiline",
+  "bladeFormatter.format.wrapAttributes": "force-expand-multiline",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  }
+}
