@@ -2,6 +2,8 @@
 
 > Copy the contents of `vscode.settings.json` in this repository into your `vscode.settings.json` file. You will also find a list of the extensions I currently use below.
 
+- [My vscode.settings.json](vscode/vscode.settings.json)
+
 ## My Extensions
 
 ### PHP / Laravel

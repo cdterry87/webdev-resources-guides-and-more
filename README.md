@@ -18,4 +18,5 @@
 
 ## My Visual Studio Code Settings
 
-- [Settings](vscode/README.md)
+- [My Extensions](vscode/README.md)
+- [My vscode.settings.json](vscode/vscode.settings.json)
