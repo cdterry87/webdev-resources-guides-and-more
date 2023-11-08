@@ -13,7 +13,7 @@
 
 ## Job Interview Questions and Practice
 
-- [PHP Interview Questions](https://github.com/azdanov/php-interview-exercises)
+- [PHP Interview Exercises](https://github.com/azdanov/php-interview-exercises)
 - [Web Developer Interview Questions](interviews/WebDeveloperInterviewQuestions.md)
 
 ## My Visual Studio Code Settings
