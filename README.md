@@ -10,6 +10,7 @@
 
 [Digital Ocean Server Setup Guide](guides/DigitalOceanSetupGuide.md)
 [Windows Subsystem for Linux Guide](guides/WSLSetupGuide.md)
+[Other Articles](guides/Articles.md)
 
 ## Job Interview Questions and Practice
 
