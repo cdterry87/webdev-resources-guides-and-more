@@ -46,13 +46,14 @@
 - [Shadow Generator](https://brumm.af/shadows)
 - [CSS Effects](https://emilkowalski.github.io/css-effects-snippets/)
 - [Animista](https://animista.net/)
-- [Tailwind CSS Blocks](https://blocks.wickedtemplates.com/)
 - [WhatAMesh](https://whatamesh.vercel.app/)
 - [Glassmorphism](https://markodenic.com/tools/glassmorphism-css-generator/)
 - [Shape Divider](https://www.shapedivider.app/)
 - [9elements - Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/)
 - [Smooth Shadow](https://shadows.brumm.af/)
 - [Haikei background generator](https://app.haikei.app/)
+- [Tailwind CSS Blocks](https://blocks.wickedtemplates.com/)
+- [Hypercolor - Gradients for Tailwind](https://hypercolor.dev/)
 
 #### Pattern / SVG Generators
 
