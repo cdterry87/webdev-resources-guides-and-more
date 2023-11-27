@@ -18,22 +18,25 @@
 
 ### JavaScript
 
-- Prettier
-- ESLint
+- Prettier (for code formatting)
+- ESLint (helpswith finding errors in code)
+- ES7+ React/Redux/React-Native snippets
+- Vetur (adds Vue tooling)
+- Vue VSCode Snippetes - (for Vue snippets)
 
 ### CSS
 
-Tailwind CSS Intellisense
+Tailwind CSS Intellisense (helps with Tailwind autocomplete)
 
 ### Tools
 
-- GitLens
-- Github Copilot
-- WSL (For Windows Users Only)
-- Docker
+- GitLens (For viewing detailed git commits inline)
+- Github Copilot (For AI Assistance in Code)
+- WSL (For Windows Users Using WSL As A Dev Environment)
+- Docker (For anyone using Docker as a Dev Environment)
 
 ### Themes
 
-- Black Ocean
-- Material Icon
-- Rainglow - Dayle Rees (If you want multiple themes to choose from)
+- Black Ocean (the primary theme I use; blue and green on a dark background)
+- Material Icon Theme (changes the icons of your project in VSCode)
+- Rainglow - Dayle Rees (for multiple nice themes to choose from)

@@ -8,9 +8,9 @@
 
 ## Technical Guides
 
-[Digital Ocean Server Setup Guide](guides/DigitalOceanSetupGuide.md)
-[Windows Subsystem for Linux Guide](guides/WSLSetupGuide.md)
-[Other Articles](guides/Articles.md)
+- [Digital Ocean Server Setup Guide](guides/DigitalOceanSetupGuide.md)
+- [Windows Subsystem for Linux Guide](guides/WSLSetupGuide.md)
+- [Other Articles](guides/Articles.md)
 
 ## Job Interview Questions and Practice
 
@@ -24,5 +24,5 @@
 
 ## Docker Images
 
-- [LAMP](https://github.com/sprintcube/docker-compose-lamp)
-- [Wordpress](/docker/Wordpress/README.md)
+- [LAMP](https://github.com/sprintcube/docker-compose-lamp) - To setup a Linux, Apache, MySQL, and PHP development environment with no need to install or set them up manually. Only requires Docker to be installed.
+- [Wordpress](/docker/Wordpress/README.md) - To setup a development environment with Wordpress installed.
