@@ -50,12 +50,13 @@
 
 - [Vue Toastification](https://github.com/Maronato/vue-toastification)
 
-## React Frameworks
+## React Frameworks & UI Libraries
 
 - [Next.js](https://nextjs.org/)
 - [Remix.js](https://remix.run/)
 - [Reactstrap](https://reactstrap.github.io/)
-- [Material UI](https://material-ui.com/)
+- [MUI (formerly Material UI)](https://mui.com/material-ui/all-components/)
+- [Chakra UI](https://v2.chakra-ui.com/getting-starteda)
 
 ## Design Systems and CMS's
 
@@ -63,6 +64,7 @@
 - [Storyblok](https://www.storyblok.com/)
 - [Strapi](https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html)
 - [Vuepress](https://vuepress.vuejs.org/guide/)
+- [Sanity](https://www.sanity.io/)
 
 ## GraphQL
 
@@ -70,6 +72,12 @@
 - [GraphiQL](https://github.com/graphql/graphiql)
 - [GraphQL Playground](https://github.com/prismagraphql/graphql-playground)
 - [Vue Apollo](https://apollo.vuejs.org/guide/)
+
+## Backend
+
+- [Supabase](https://supabase.com/docs)
+- [Firebase](https://firebase.google.com/docs/auth/web/start)
+- [MongoDB](https://www.mongodb.com/)
 
 ## Web Game Development
 
