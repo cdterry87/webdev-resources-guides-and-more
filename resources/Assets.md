@@ -42,6 +42,7 @@
 - [MDI Icons](https://materialdesignicons.com/)
 - [Fontello](http://fontello.com/)
 - [Heroicons](https://heroicons.com/)
+- [Zondicons](https://www.zondicons.com/icons.html)
 
 ## Fonts
 
