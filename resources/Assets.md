@@ -33,9 +33,6 @@
 - [Ikonate](https://ikonate.com/)
 - [Eva Icons](https://akveo.github.io/eva-icons/#/)
 - [Icons8 Animated Icons](https://icons8.com/animated-icons)
-
-## Icon Fonts
-
 - [Fontawesome](https://fontawesome.com/?from=io)
 - [Fontawesome (cheatsheet)](https://fontawesome.com/cheatsheet?from=io)
 - [Material Icons](https://material.io/resources/icons/?icon=person&style=baseline)
