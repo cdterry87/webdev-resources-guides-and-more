@@ -18,6 +18,7 @@
   - [Livewire](https://laravel-livewire.com)
   - [InertiaJS](https://inertiajs.com/)
   - [AlpineJS](https://alpinejs.dev/)
+  - [Blade UI Kit](https://blade-ui-kit.com/blade-icons)
 - [Slim](https://www.slimframework.com/)
 - [Symfony](https://symfony.com/)
 
