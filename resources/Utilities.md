@@ -17,12 +17,14 @@
 
 - [RegExr - Learn build and test regex](https://regexr.com/)
 - [regex101 - build, test, and debug regex](https://regex101.com/)
+- [Nutilz Regex Tester - Online regex tester and debugger with real-time matching](https://nutilz.com/regex-tester)
 
 ## XML and JSON Utilities
 
 - [XML Validator](https://www.xmlvalidation.com/)
 - [ObjGen - JSON Generator](http://www.objgen.com/json?demo=true)
 - [JSONLint - JSON Validation](https://jsonlint.com/)
+- [Nutilz JSON Formatter - Free online JSON validator, formatter, and tree viewer](https://nutilz.com/json-formatter)
 
 ## Editors and Other Tools
 
