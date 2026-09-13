@@ -83,6 +83,10 @@
 
 - [Phaser](https://phaser.io/tutorials/getting-started-phaser3/index)
 
+## TypeScript
+
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - A free and open-source TypeScript book covering fundamentals through advanced concepts.
+
 ## Learning
 
 - [Wes Bos Courses](https://wesbos.com/courses/)
